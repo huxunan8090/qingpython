@@ -6,8 +6,8 @@ export default defineConfig({
   logo: 'https://z3.ax1x.com/2021/08/18/fITurD.jpg',
   outputPath: 'docs-dist',
   mode: 'site',
-  base: '/qingpython',
-  publicPath: '/qingpython/',
+  //base: '/qingpython',
+  //publicPath: '/qingpython/',
   exportStatic: {}, // 将所有路由输出为 HTML 目录结构，以免刷新页面时 404
   // 其他配置
   navs: [
