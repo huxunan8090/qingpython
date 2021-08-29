@@ -13,6 +13,7 @@
 yarn.lock
 package-lock.json
 dist
+docs-dist
 /.idea
 /.vscode
 .eslintcache
